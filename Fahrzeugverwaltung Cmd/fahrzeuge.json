@@ -1,0 +1,21 @@
+[ {
+  "marke" : "Audi",
+  "modell" : "A7",
+  "hubraum" : 200,
+  "aktuellerKmStand" : 2000,
+  "treibstoffart" : "Benzin",
+  "leistung" : 500,
+  "erstzulassung" : "02.05.2022",
+  "lehrgewicht" : 200,
+  "aussenfarbe" : "Rot"
+}, {
+  "marke" : "Mercedes",
+  "modell" : "A1",
+  "hubraum" : 23,
+  "aktuellerKmStand" : 234,
+  "treibstoffart" : "Benzin",
+  "leistung" : 324,
+  "erstzulassung" : "20.12.2022",
+  "lehrgewicht" : 32,
+  "aussenfarbe" : "rot"
+} ]
